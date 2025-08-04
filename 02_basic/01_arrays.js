@@ -38,3 +38,4 @@ console.log("B",myArr);
 const mny2=myArr.splice(1,3)
 console.log("C",myArr);
 console.log(mny2);
+console.log(mny2);
